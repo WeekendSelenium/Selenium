@@ -1,0 +1,10 @@
+
+<suite name="Anil">
+  <test name="Sample">
+    <classes>
+        <class name="com.vasu.testng.AddEmpTest"/>
+       <class name="com.vasu.testng.EmpListTest"/>
+             
+    </classes>
+  </test> 
+</suite> 

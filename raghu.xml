@@ -1,0 +1,13 @@
+
+<suite name="Raghu">
+  <test name="PrimusBank">
+    <classes>
+      <class name="com.vasu.testng.FirstTestNg"/>
+      <class name="com.vasu.testng.AnnotationsTest"/>
+      <class name="com.vasu.testng.MultipleTestCases"/>
+      <class name="com.vasu.testng.AdminLogin"/>
+      <class name="com.vasu.testng.ValidationTest"/>
+      <class name="com.vasu.testng.AppLaunchTest"/>
+    </classes>
+  </test> 
+</suite> 
